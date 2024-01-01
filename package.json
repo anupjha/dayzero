@@ -10,7 +10,7 @@
     "postinstall": "prisma generate"
   },
   "engines": {
-    "node": "20.x"
+    "node": "18.x"
   },
   "dependencies": {
     "@clerk/nextjs": "^4.26.2",
